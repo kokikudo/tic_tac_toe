@@ -1,0 +1,4 @@
+enum PlayingUser {
+  o,
+  x,
+}
